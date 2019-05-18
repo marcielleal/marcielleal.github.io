@@ -309,6 +309,7 @@ ol {
 .language-progress {
 	max-width: 280px;
 	list-style: none;
+	margin: 0 auto;
 }
 
 .language-progress li {
